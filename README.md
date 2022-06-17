@@ -1,5 +1,6 @@
 # cam_studio
 A peer to peer cam studio based on Jitsi and Webrtc. Admin side has optional recording, and embedding service.
+
 ![Screen Shot 2022-06-16 at 6 59 11 PM](https://user-images.githubusercontent.com/84981758/174207367-5c1a1786-d251-4c89-96b1-899333a4436f.png)
 
 Demo: 
