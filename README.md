@@ -10,3 +10,4 @@ https://steamystreams.com/cam_studio/public/index.html
 If you wish to use the recorder, do so at your own risk or sign up for your own doodstream api key. It ends back iframes and download links which is handy and can be another revenue stream.
 
 
+![Recording config](https://user-images.githubusercontent.com/84981758/174206809-9e98c42b-4602-4476-8f9b-db086fd5df2c.png)
