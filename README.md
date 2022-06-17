@@ -16,3 +16,5 @@ If you wish to use the recorder, do so at your own risk or sign up for your own 
 
 Much thanks to Muaz khan for his work on RecordRTC which we made very few changes to.
 https://github.com/muaz-khan/RecordRTC
+
+No payment gateways are integrated but that's easy enough to do, I can get you set up for a reasonable fee if you need help. Now, go show the world your behinds!
