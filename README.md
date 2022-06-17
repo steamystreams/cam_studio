@@ -11,3 +11,6 @@ If you wish to use the recorder, do so at your own risk or sign up for your own 
 
 
 ![Recording config](https://user-images.githubusercontent.com/84981758/174206809-9e98c42b-4602-4476-8f9b-db086fd5df2c.png)
+
+Much thanks to Muaz khan for his work on RecordRTC which we made very few changes to.
+https://github.com/muaz-khan/RecordRTC
